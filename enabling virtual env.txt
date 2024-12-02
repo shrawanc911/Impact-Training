@@ -1,0 +1,10 @@
+Virtual Environment
+1. Create one folder
+2. Go to CLI
+3. pip install virtualenv
+4. python -m venv "Folder Name"
+5. Activate virtual environment
+6. python -m pip install django
+7. django-admin startproject Django_project
+8. cd Django_project
+9. manage.py runserver

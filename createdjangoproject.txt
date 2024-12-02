@@ -1,0 +1,5 @@
+creating DJANGO project
+
+//pip install virtualenv
+//python -m 
+//django-admin startproject shrawan or //python -m django startproject shrawan
